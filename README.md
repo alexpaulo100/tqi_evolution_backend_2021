@@ -2,6 +2,8 @@
 # Projeto Sistema Analise de Credito
 
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexpaulo100/tqi_evolution_backend_2021/blob/master/LICENSE)
+
 # Sobre o projeto
 
 Desafio TQI avaliação
