@@ -6,7 +6,7 @@
 
 # Sobre o projeto
 
-Desafio TQI avaliação
+Desafio TQI
 
 É uma aplicação de sistema de analise de credito, onde uma empresa desenvolve um aplicativo para que seus clientes cadastrem seus dados e façam suas solicitações de emprestimos e possam acompanhar sua solicitação através da aplicação.
 
